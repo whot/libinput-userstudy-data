@@ -17753,7 +17753,7 @@ dmi:bvnHewlett-Packard:bvrJ61v01.02:bd03/09/2012:svnHewlett-Packard:pnHPZ420Work
 <button time="176372453" x="502.094273" y="301.452130" button="272" state="1" hit="1"/>
 </set>
 <button time="176372517" x="502.094273" y="301.452130" button="272" state="0"/>
-<questionnaire>
+<questionnaire first="0" second="2">
 <userdata age="42" gender="male" handed="right" experience="25" hours_per_week="50" />
 <device type="mouse"/>
 <question response="-1">The first acceleration method felt natural</question>

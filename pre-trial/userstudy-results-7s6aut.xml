@@ -13875,7 +13875,7 @@ dmi:bvnLENOVO:bvrGJET72WW(2.22):bd02/21/2014:svnLENOVO:pn20ARS25701:pvrThinkPadT
 <button time="926757" x="1418.650734" y="846.954336" button="272" state="1" hit="1"/>
 </set>
 <button time="926832" x="1418.650734" y="846.954336" button="272" state="0"/>
-<questionnaire>
+<questionnaire first="1" second="0">
 <userdata age="38" gender="male" handed="left" experience="20" hours_per_week="39" />
 <device type="touchpad"/>
 <question response="1">The first acceleration method felt natural</question>

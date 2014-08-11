@@ -15970,7 +15970,7 @@ dmi:bvnLENOVO:bvr2WKT42AUS:bd10/21/2008:svnLENOVO:pn6423AR4:pvrThinkStationS10:r
 <button time="868192" x="1419.872277" y="900.895358" button="272" state="1" hit="1"/>
 </set>
 <button time="868280" x="1419.872277" y="900.895358" button="272" state="0"/>
-<questionnaire>
+<questionnaire first="1" second="0">
 <userdata age="40" gender="male" handed="right" experience="22" hours_per_week="12" />
 <device type="mouse"/>
 <question response="-1">The first acceleration method felt natural</question>
