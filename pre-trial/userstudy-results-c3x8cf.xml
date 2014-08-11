@@ -17756,20 +17756,20 @@ dmi:bvnHewlett-Packard:bvrJ61v01.02:bd03/09/2012:svnHewlett-Packard:pnHPZ420Work
 <questionnaire first="0" second="2">
 <userdata age="42" gender="male" handed="right" experience="25" hours_per_week="50" />
 <device type="mouse"/>
-<question response="-1">The first acceleration method felt natural</question>
-<question response="-1">The first acceleration method allowed for precise pointer control</question>
-<question response="-1">The first acceleration method allowed for fast pointer movement</question>
-<question response="-1">The first acceleration method made it easy to hit the targets</question>
-<question response="0">I would prefer the first acceleration method to be faster</question>
-<question response="1">I would prefer the first acceleration method to be slower</question>
-<question response="2">The second acceleration method felt natural</question>
-<question response="1">The second acceleration method allowed for precise pointer control</question>
-<question response="1">The second acceleration method allowed for fast pointer movement</question>
-<question response="1">The second acceleration method made it easy to hit the targets</question>
-<question response="0">I would prefer the second acceleration method to be faster</question>
-<question response="0">I would prefer the second acceleration method to be slower</question>
-<question response="2">The two acceleration methods felt different</question>
-<question response="-2">The first acceleration method was preferable over the second</question>
+<question question-id="0" response="-1">The first acceleration method felt natural</question>
+<question question-id="1" response="-1">The first acceleration method allowed for precise pointer control</question>
+<question question-id="2" response="-1">The first acceleration method allowed for fast pointer movement</question>
+<question question-id="3" response="-1">The first acceleration method made it easy to hit the targets</question>
+<question question-id="4" response="0">I would prefer the first acceleration method to be faster</question>
+<question question-id="5" response="1">I would prefer the first acceleration method to be slower</question>
+<question question-id="6" response="2">The second acceleration method felt natural</question>
+<question question-id="7" response="1">The second acceleration method allowed for precise pointer control</question>
+<question question-id="8" response="1">The second acceleration method allowed for fast pointer movement</question>
+<question question-id="9" response="1">The second acceleration method made it easy to hit the targets</question>
+<question question-id="10" response="0">I would prefer the second acceleration method to be faster</question>
+<question question-id="11" response="0">I would prefer the second acceleration method to be slower</question>
+<question question-id="12" response="2">The two acceleration methods felt different</question>
+<question question-id="13" response="-2">The first acceleration method was preferable over the second</question>
 </questionnaire>
 </sets>
 </results>
