@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- please upload this file to http://libinput-whot.rhcloud.com/ -->
+<results>
+<system>
+<kernel name="Linux" release="3.16.1-300.fc21.x86_64"/>
+<dmi>
+dmi:bvnLENOVO:bvrG6ET99WW(2.59):bd11/19/2013:svnLENOVO:pn3444CUU:pvrThinkPadX1Carbon:rvnLENOVO:rn3444CUU:rvr0B98401Pro:cvnLENOVO:ct10:cvrNotAvailable:
+</dmi>
+</system>
+<device name="TPPS/2 IBM TrackPoint" pid="0xa" vid="0x2">
+<bit type="1" code="272"/> <!-- EV_KEY BTN_LEFT -->
+<bit type="1" code="273"/> <!-- EV_KEY BTN_RIGHT -->
+<bit type="1" code="274"/> <!-- EV_KEY BTN_MIDDLE -->
+<bit type="2" code="0"/> <!-- EV_REL REL_X -->
+<bit type="2" code="1"/> <!-- EV_REL REL_Y -->
+</device>
+<sets>
+<set time="37740907" id="0" r="45" method="2" methodname="linear">
+<target time="37740951" number="1" xpos="362" ypos="384" r="45" x="488.341701" y="374.764089"/>
+<button time="37741916" x="345.146458" y="397.285444" button="272" state="1" hit="1"/>
+<target time="37741916" number="2" xpos="62" ypos="684" r="45" x="345.146458" y="397.285444"/>
+<button time="37741961" x="345.146458" y="397.285444" button="272" state="0"/>
+<button time="37743264" x="82.105072" y="688.622092" button="272" state="1" hit="1"/>
+<target time="37743265" number="3" xpos="662" ypos="684" r="45" x="82.105072" y="688.622092"/>
+<button time="37743302" x="82.105072" y="688.622092" button="272" state="0"/>
+<button time="37744430" x="667.172023" y="683.218032" button="272" state="1" hit="1"/>
+<target time="37744432" number="4" xpos="662" ypos="84" r="45" x="667.172023" y="683.218032"/>
+<button time="37744487" x="667.172023" y="683.218032" button="272" state="0"/>
+<button time="37745637" x="667.948174" y="111.713941" button="272" state="1" hit="1"/>
+<target time="37745638" number="5" xpos="62" ypos="84" r="45" x="667.948174" y="111.713941"/>
+<button time="37745685" x="667.948174" y="111.713941" button="272" state="0"/>
+<button time="37747435" x="53.210382" y="54.247304" button="272" state="1" hit="1"/>
+<target time="37747435" number="6" xpos="62" ypos="384" r="45" x="53.210382" y="54.247304"/>
+<button time="37747470" x="53.210382" y="54.247304" button="272" state="0"/>
+<button time="37748658" x="67.228734" y="415.819577" button="272" state="1" hit="1"/>
+<target time="37748659" number="7" xpos="362" ypos="384" r="45" x="67.228734" y="415.819577"/>
+<button time="37748703" x="67.228734" y="415.819577" button="272" state="0"/>
+<button time="37749807" x="346.411611" y="348.057380" button="272" state="1" hit="1"/>
+<target time="37749807" number="8" xpos="62" ypos="84" r="45" x="346.411611" y="348.057380"/>
+<button time="37749842" x="346.411611" y="348.057380" button="272" state="0"/>
+<button time="37751099" x="52.202434" y="82.439427" button="272" state="1" hit="1"/>
+<target time="37751099" number="9" xpos="962" ypos="384" r="45" x="52.202434" y="82.439427"/>
+<button time="37751134" x="52.202434" y="82.439427" button="272" state="0"/>
+<button time="37752742" x="996.310647" y="407.458355" button="272" state="1" hit="1"/>
+<target time="37752743" number="10" xpos="962" ypos="84" r="45" x="996.310647" y="407.458355"/>
+<button time="37752802" x="996.310647" y="407.458355" button="272" state="0"/>
+<button time="37753918" x="968.715394" y="88.602311" button="272" state="1" hit="1"/>
+<target time="37753918" number="11" xpos="62" ypos="84" r="45" x="968.715394" y="88.602311"/>
+<button time="37753955" x="968.715394" y="88.602311" button="272" state="0"/>
+<button time="37756266" x="78.860032" y="81.858182" button="272" state="1" hit="1"/>
+<target time="37756266" number="12" xpos="62" ypos="684" r="45" x="78.860032" y="81.858182"/>
+<button time="37756301" x="78.860032" y="81.858182" button="272" state="0"/>
+<button time="37757570" x="95.371706" y="696.749833" button="272" state="1" hit="1"/>
+<target time="37757570" number="13" xpos="362" ypos="384" r="45" x="95.371706" y="696.749833"/>
+<button time="37757617" x="95.371706" y="696.749833" button="272" state="0"/>
+<button time="37758884" x="350.819230" y="369.382702" button="272" state="1" hit="1"/>
+<target time="37758884" number="14" xpos="62" ypos="684" r="45" x="350.819230" y="369.382702"/>
+<button time="37758920" x="350.819230" y="369.382702" button="272" state="0"/>
+<button time="37760283" x="69.495646" y="690.264096" button="272" state="1" hit="1"/>
+<target time="37760283" number="15" xpos="962" ypos="384" r="45" x="69.495646" y="690.264096"/>
+<button time="37760329" x="69.495646" y="690.264096" button="272" state="0"/>
+<button time="37762032" x="979.270818" y="357.594995" button="272" state="1" hit="1"/>
+</set>
+<button time="37762079" x="979.270818" y="357.594995" button="272" state="0"/>
+<set time="37769167" id="1" r="45" method="2" methodname="linear">
+<target time="37769212" number="1" xpos="962" ypos="684" r="45" x="485.944798" y="382.377145"/>
+<button time="37770620" x="975.089956" y="721.062289" button="272" state="1" hit="1"/>
+<target time="37770620" number="2" xpos="662" ypos="84" r="45" x="975.089956" y="721.062289"/>
+<button time="37770667" x="975.089956" y="721.062289" button="272" state="0"/>
+<button time="37772946" x="648.122646" y="97.663791" button="272" state="1" hit="1"/>
+<target time="37772946" number="3" xpos="962" ypos="684" r="45" x="648.122646" y="97.663791"/>
+<button time="37772980" x="648.122646" y="97.663791" button="272" state="0"/>
+<button time="37774695" x="952.896956" y="715.164544" button="272" state="1" hit="1"/>
+<target time="37774695" number="4" xpos="362" ypos="684" r="45" x="952.896956" y="715.164544"/>
+<button time="37774733" x="952.896956" y="715.164544" button="272" state="0"/>
+<button time="37776069" x="362.034522" y="696.524951" button="272" state="1" hit="1"/>
+<target time="37776069" number="5" xpos="662" ypos="384" r="45" x="362.034522" y="696.524951"/>
+<button time="37776116" x="362.034522" y="696.524951" button="272" state="0"/>
+<button time="37777173" x="663.489424" y="390.801033" button="272" state="1" hit="1"/>
+<target time="37777173" number="6" xpos="362" ypos="684" r="45" x="663.489424" y="390.801033"/>
+<button time="37777221" x="663.489424" y="390.801033" button="272" state="0"/>
+<button time="37778207" x="398.338979" y="665.060078" button="272" state="1" hit="1"/>
+<target time="37778207" number="7" xpos="362" ypos="384" r="45" x="398.338979" y="665.060078"/>
+<button time="37778253" x="398.338979" y="665.060078" button="272" state="0"/>
+<button time="37779405" x="367.220970" y="384.105218" button="272" state="1" hit="1"/>
+<target time="37779405" number="8" xpos="662" ypos="84" r="45" x="367.220970" y="384.105218"/>
+<button time="37779463" x="367.220970" y="384.105218" button="272" state="0"/>
+<button time="37780566" x="675.082027" y="81.235783" button="272" state="1" hit="1"/>
+<target time="37780567" number="9" xpos="962" ypos="384" r="45" x="675.082027" y="81.235783"/>
+<button time="37780626" x="675.082027" y="81.235783" button="272" state="0"/>
+<button time="37782211" x="972.609727" y="400.821452" button="272" state="1" hit="1"/>
+<target time="37782211" number="10" xpos="362" ypos="384" r="45" x="972.609727" y="400.821452"/>
+<button time="37782270" x="972.609727" y="400.821452" button="272" state="0"/>
+<button time="37783373" x="317.102821" y="371.940032" button="272" state="1" hit="0"/>
+<button time="37783409" x="317.102821" y="371.940032" button="272" state="0"/>
+<button time="37784219" x="353.505066" y="378.385095" button="272" state="1" hit="1"/>
+<target time="37784219" number="11" xpos="62" ypos="84" r="45" x="353.505066" y="378.385095"/>
+<button time="37784255" x="353.505066" y="378.385095" button="272" state="0"/>
+<button time="37785312" x="76.899553" y="88.203735" button="272" state="1" hit="1"/>
+<target time="37785312" number="12" xpos="362" ypos="384" r="45" x="76.899553" y="88.203735"/>
+<button time="37785358" x="76.899553" y="88.203735" button="272" state="0"/>
+<button time="37786569" x="368.648750" y="385.554054" button="272" state="1" hit="1"/>
+<target time="37786569" number="13" xpos="362" ypos="84" r="45" x="368.648750" y="385.554054"/>
+<button time="37786627" x="368.648750" y="385.554054" button="272" state="0"/>
+<button time="37787649" x="363.124961" y="94.140218" button="272" state="1" hit="1"/>
+<target time="37787649" number="14" xpos="662" ypos="684" r="45" x="363.124961" y="94.140218"/>
+<button time="37787697" x="363.124961" y="94.140218" button="272" state="0"/>
+<button time="37789433" x="676.678539" y="704.746953" button="272" state="1" hit="1"/>
+<target time="37789433" number="15" xpos="362" ypos="84" r="45" x="676.678539" y="704.746953"/>
+<button time="37789480" x="676.678539" y="704.746953" button="272" state="0"/>
+<button time="37790678" x="331.427732" y="62.546844" button="272" state="1" hit="1"/>
+</set>
+<button time="37790737" x="331.427732" y="62.546844" button="272" state="0"/>
+<set time="37795739" id="2" r="30" method="2" methodname="linear">
+<target time="37795788" number="1" xpos="962" ypos="684" r="30" x="517.789695" y="379.045443"/>
+<button time="37796984" x="967.365240" y="674.987620" button="272" state="1" hit="1"/>
+<target time="37796985" number="2" xpos="62" ypos="384" r="30" x="967.365240" y="674.987620"/>
+<button time="37797031" x="967.365240" y="674.987620" button="272" state="0"/>
+<button time="37798734" x="50.416766" y="379.858952" button="272" state="1" hit="1"/>
+<target time="37798735" number="3" xpos="362" ypos="84" r="30" x="50.416766" y="379.858952"/>
+<button time="37798771" x="50.416766" y="379.858952" button="272" state="0"/>
+<button time="37800168" x="357.498294" y="81.743707" button="272" state="1" hit="1"/>
+<target time="37800168" number="4" xpos="962" ypos="84" r="30" x="357.498294" y="81.743707"/>
+<button time="37800213" x="357.498294" y="81.743707" button="272" state="0"/>
+<button time="37801517" x="970.085542" y="78.560411" button="272" state="1" hit="1"/>
+<target time="37801517" number="5" xpos="362" ypos="684" r="30" x="970.085542" y="78.560411"/>
+<button time="37801564" x="970.085542" y="78.560411" button="272" state="0"/>
+<button time="37803055" x="353.939514" y="660.156517" button="272" state="1" hit="1"/>
+<target time="37803055" number="6" xpos="662" ypos="384" r="30" x="353.939514" y="660.156517"/>
+<button time="37803091" x="353.939514" y="660.156517" button="272" state="0"/>
+<button time="37804347" x="648.965262" y="372.840195" button="272" state="1" hit="1"/>
+<target time="37804348" number="7" xpos="962" ypos="684" r="30" x="648.965262" y="372.840195"/>
+<button time="37804406" x="648.965262" y="372.840195" button="272" state="0"/>
+<button time="37805627" x="962.671900" y="694.271954" button="272" state="1" hit="1"/>
+<target time="37805627" number="8" xpos="62" ypos="84" r="30" x="962.671900" y="694.271954"/>
+<button time="37805674" x="962.671900" y="694.271954" button="272" state="0"/>
+<button time="37807600" x="71.213845" y="78.751304" button="272" state="1" hit="1"/>
+<target time="37807600" number="9" xpos="662" ypos="384" r="30" x="71.213845" y="78.751304"/>
+<button time="37807635" x="71.213845" y="78.751304" button="272" state="0"/>
+<button time="37809009" x="662.392681" y="382.784079" button="272" state="1" hit="1"/>
+<target time="37809009" number="10" xpos="962" ypos="384" r="30" x="662.392681" y="382.784079"/>
+<button time="37809045" x="662.392681" y="382.784079" button="272" state="0"/>
+<button time="37810254" x="981.330814" y="384.292505" button="272" state="1" hit="1"/>
+<target time="37810254" number="11" xpos="362" ypos="684" r="30" x="981.330814" y="384.292505"/>
+<button time="37810291" x="981.330814" y="384.292505" button="272" state="0"/>
+<button time="37811604" x="370.572321" y="685.385512" button="272" state="1" hit="1"/>
+<target time="37811604" number="12" xpos="662" ypos="384" r="30" x="370.572321" y="685.385512"/>
+<button time="37811627" x="370.572321" y="685.385512" button="272" state="0"/>
+<button time="37813447" x="652.549332" y="396.882210" button="272" state="1" hit="1"/>
+<target time="37813448" number="13" xpos="962" ypos="384" r="30" x="652.549332" y="396.882210"/>
+<button time="37813482" x="652.549332" y="396.882210" button="272" state="0"/>
+<button time="37814517" x="958.290875" y="391.106457" button="272" state="1" hit="1"/>
+<target time="37814519" number="14" xpos="62" ypos="384" r="30" x="958.290875" y="391.106457"/>
+<button time="37814564" x="958.290875" y="391.106457" button="272" state="0"/>
+<button time="37815855" x="80.566148" y="399.299225" button="272" state="1" hit="1"/>
+<target time="37815856" number="15" xpos="362" ypos="384" r="30" x="80.566148" y="399.299225"/>
+<button time="37815890" x="80.566148" y="399.299225" button="272" state="0"/>
+<button time="37817135" x="372.971964" y="387.402724" button="272" state="1" hit="1"/>
+</set>
+<button time="37817182" x="372.971964" y="387.402724" button="272" state="0"/>
+<set time="37822866" id="3" r="30" method="2" methodname="linear">
+<target time="37822913" number="1" xpos="662" ypos="684" r="30" x="506.864185" y="381.195174"/>
+<button time="37824792" x="671.486608" y="701.053540" button="272" state="1" hit="1"/>
+<target time="37824792" number="2" xpos="962" ypos="84" r="30" x="671.486608" y="701.053540"/>
+<button time="37824827" x="671.486608" y="701.053540" button="272" state="0"/>
+<button time="37826424" x="942.789596" y="95.973996" button="272" state="1" hit="1"/>
+<target time="37826424" number="3" xpos="662" ypos="384" r="30" x="942.789596" y="95.973996"/>
+<button time="37826460" x="942.789596" y="95.973996" button="272" state="0"/>
+<button time="37827399" x="649.712808" y="392.574417" button="272" state="1" hit="1"/>
+<target time="37827399" number="4" xpos="62" ypos="684" r="30" x="649.712808" y="392.574417"/>
+<button time="37827446" x="649.712808" y="392.574417" button="272" state="0"/>
+<button time="37828538" x="72.312230" y="685.350714" button="272" state="1" hit="1"/>
+<target time="37828539" number="5" xpos="62" ypos="384" r="30" x="72.312230" y="685.350714"/>
+<button time="37828584" x="72.312230" y="685.350714" button="272" state="0"/>
+<button time="37829877" x="32.277132" y="397.760384" button="272" state="1" hit="0"/>
+<button time="37829913" x="32.277132" y="397.760384" button="272" state="0"/>
+<button time="37830710" x="32.512969" y="383.497228" button="272" state="1" hit="0"/>
+<button time="37830757" x="32.512969" y="383.497228" button="272" state="0"/>
+<button time="37831546" x="67.697706" y="387.822561" button="272" state="1" hit="1"/>
+<target time="37831546" number="6" xpos="962" ypos="684" r="30" x="67.697706" y="387.822561"/>
+<button time="37831603" x="67.697706" y="387.822561" button="272" state="0"/>
+<button time="37833083" x="942.529556" y="690.646422" button="272" state="1" hit="1"/>
+<target time="37833083" number="7" xpos="362" ypos="384" r="30" x="942.529556" y="690.646422"/>
+<button time="37833130" x="942.529556" y="690.646422" button="272" state="0"/>
+<button time="37835279" x="347.144621" y="382.045596" button="272" state="1" hit="1"/>
+<target time="37835280" number="8" xpos="962" ypos="384" r="30" x="347.144621" y="382.045596"/>
+<button time="37835314" x="347.144621" y="382.045596" button="272" state="0"/>
+<button time="37836408" x="971.074321" y="396.329688" button="272" state="1" hit="1"/>
+<target time="37836408" number="9" xpos="962" ypos="684" r="30" x="971.074321" y="396.329688"/>
+<button time="37836465" x="971.074321" y="396.329688" button="272" state="0"/>
+<button time="37837922" x="943.386963" y="680.759596" button="272" state="1" hit="1"/>
+<target time="37837923" number="10" xpos="662" ypos="684" r="30" x="943.386963" y="680.759596"/>
+<button time="37837980" x="943.386963" y="680.759596" button="272" state="0"/>
+<button time="37838943" x="669.937349" y="684.766976" button="272" state="1" hit="1"/>
+<target time="37838943" number="11" xpos="962" ypos="684" r="30" x="669.937349" y="684.766976"/>
+<button time="37838990" x="669.937349" y="684.766976" button="272" state="0"/>
+<button time="37839976" x="972.909045" y="679.137059" button="272" state="1" hit="1"/>
+<target time="37839976" number="12" xpos="962" ypos="84" r="30" x="972.909045" y="679.137059"/>
+<button time="37840023" x="972.909045" y="679.137059" button="272" state="0"/>
+<button time="37841973" x="960.272319" y="97.900489" button="272" state="1" hit="1"/>
+<target time="37841973" number="13" xpos="62" ypos="84" r="30" x="960.272319" y="97.900489"/>
+<button time="37842020" x="960.272319" y="97.900489" button="272" state="0"/>
+<button time="37843675" x="56.273162" y="92.167640" button="272" state="1" hit="1"/>
+<target time="37843676" number="14" xpos="362" ypos="384" r="30" x="56.273162" y="92.167640"/>
+<button time="37843734" x="56.273162" y="92.167640" button="272" state="0"/>
+<button time="37845026" x="380.042033" y="381.480664" button="272" state="1" hit="1"/>
+<target time="37845026" number="15" xpos="362" ypos="684" r="30" x="380.042033" y="381.480664"/>
+<button time="37845073" x="380.042033" y="381.480664" button="272" state="0"/>
+<button time="37846353" x="352.356254" y="693.180308" button="272" state="1" hit="1"/>
+</set>
+<button time="37846389" x="352.356254" y="693.180308" button="272" state="0"/>
+<set time="37858446" id="4" r="15" method="2" methodname="linear">
+<target time="37858494" number="1" xpos="962" ypos="84" r="15" x="509.981682" y="382.221907"/>
+<button time="37859692" x="952.740096" y="87.291747" button="272" state="1" hit="1"/>
+<target time="37859693" number="2" xpos="662" ypos="684" r="15" x="952.740096" y="87.291747"/>
+<button time="37859784" x="952.740096" y="87.291747" button="272" state="0"/>
+<button time="37861782" x="655.493199" y="695.869147" button="272" state="1" hit="1"/>
+<target time="37861782" number="3" xpos="662" ypos="84" r="15" x="655.493199" y="695.869147"/>
+<button time="37861910" x="655.493199" y="695.869147" button="272" state="0"/>
+<button time="37863472" x="658.829661" y="84.988809" button="272" state="1" hit="1"/>
+<target time="37863472" number="4" xpos="962" ypos="384" r="15" x="658.829661" y="84.988809"/>
+<button time="37863542" x="658.829661" y="84.988809" button="272" state="0"/>
+<button time="37865034" x="959.992928" y="381.431117" button="272" state="1" hit="1"/>
+<target time="37865034" number="5" xpos="962" ypos="684" r="15" x="959.992928" y="381.431117"/>
+<button time="37865151" x="959.992928" y="381.431117" button="272" state="0"/>
+<button time="37866395" x="961.525194" y="686.958520" button="272" state="1" hit="1"/>
+<target time="37866396" number="6" xpos="62" ypos="684" r="15" x="961.525194" y="686.958520"/>
+<button time="37866501" x="961.525194" y="686.958520" button="272" state="0"/>
+<button time="37867934" x="67.592094" y="683.984146" button="272" state="1" hit="1"/>
+<target time="37867935" number="7" xpos="662" ypos="684" r="15" x="67.592094" y="683.984146"/>
+<button time="37867981" x="67.592094" y="683.984146" button="272" state="0"/>
+<button time="37869332" x="669.160280" y="689.563974" button="272" state="1" hit="1"/>
+<target time="37869332" number="8" xpos="62" ypos="384" r="15" x="669.160280" y="689.563974"/>
+<button time="37869402" x="669.160280" y="689.563974" button="272" state="0"/>
+<button time="37871093" x="52.794725" y="387.230733" button="272" state="1" hit="1"/>
+<target time="37871093" number="9" xpos="662" ypos="384" r="15" x="52.794725" y="387.230733"/>
+<button time="37871152" x="52.794725" y="387.230733" button="272" state="0"/>
+<button time="37872340" x="676.306367" y="382.336875" button="272" state="1" hit="1"/>
+<target time="37872340" number="10" xpos="362" ypos="384" r="15" x="676.306367" y="382.336875"/>
+<button time="37872432" x="676.306367" y="382.336875" button="272" state="0"/>
+<button time="37873924" x="366.757473" y="386.019745" button="272" state="1" hit="1"/>
+<target time="37873924" number="11" xpos="362" ypos="84" r="15" x="366.757473" y="386.019745"/>
+<button time="37873984" x="366.757473" y="386.019745" button="272" state="0"/>
+<button time="37875509" x="363.915505" y="80.588847" button="272" state="1" hit="1"/>
+<target time="37875509" number="12" xpos="62" ypos="84" r="15" x="363.915505" y="80.588847"/>
+<button time="37875579" x="363.915505" y="80.588847" button="272" state="0"/>
+<button time="37877305" x="59.280153" y="77.539608" button="272" state="1" hit="1"/>
+<target time="37877306" number="13" xpos="362" ypos="384" r="15" x="59.280153" y="77.539608"/>
+<button time="37877364" x="59.280153" y="77.539608" button="272" state="0"/>
+<button time="37879102" x="362.875284" y="390.610148" button="272" state="1" hit="1"/>
+<target time="37879102" number="14" xpos="662" ypos="684" r="15" x="362.875284" y="390.610148"/>
+<button time="37879173" x="362.875284" y="390.610148" button="272" state="0"/>
+<button time="37880946" x="667.932240" y="692.596297" button="272" state="1" hit="1"/>
+<target time="37880946" number="15" xpos="962" ypos="84" r="15" x="667.932240" y="692.596297"/>
+<button time="37881040" x="667.932240" y="692.596297" button="272" state="0"/>
+<button time="37882719" x="967.782851" y="100.012785" button="272" state="1" hit="0"/>
+<button time="37882801" x="967.782851" y="100.012785" button="272" state="0"/>
+<button time="37883812" x="964.281003" y="87.317566" button="272" state="1" hit="1"/>
+</set>
+<button time="37883893" x="964.281003" y="87.317566" button="272" state="0"/>
+<set time="37889060" id="5" r="15" method="2" methodname="linear">
+<target time="37889155" number="1" xpos="362" ypos="84" r="15" x="507.850902" y="386.272594"/>
+<button time="37890457" x="365.029956" y="86.869284" button="272" state="1" hit="1"/>
+<target time="37890457" number="2" xpos="62" ypos="384" r="15" x="365.029956" y="86.869284"/>
+<button time="37890504" x="365.029956" y="86.869284" button="272" state="0"/>
+<button time="37891667" x="55.576024" y="383.371488" button="272" state="1" hit="1"/>
+<target time="37891667" number="3" xpos="962" ypos="684" r="15" x="55.576024" y="383.371488"/>
+<button time="37891716" x="55.576024" y="383.371488" button="272" state="0"/>
+<button time="37893617" x="961.095727" y="690.798773" button="272" state="1" hit="1"/>
+<target time="37893617" number="4" xpos="662" ypos="384" r="15" x="961.095727" y="690.798773"/>
+<button time="37893769" x="961.095727" y="690.798773" button="272" state="0"/>
+<button time="37895777" x="671.646706" y="384.897818" button="272" state="1" hit="1"/>
+<target time="37895777" number="5" xpos="62" ypos="684" r="15" x="671.646706" y="384.897818"/>
+<button time="37895859" x="671.646706" y="384.897818" button="272" state="0"/>
+<button time="37897198" x="58.675827" y="691.226915" button="272" state="1" hit="1"/>
+<target time="37897198" number="6" xpos="362" ypos="384" r="15" x="58.675827" y="691.226915"/>
+<button time="37897282" x="58.675827" y="691.226915" button="272" state="0"/>
+<button time="37898877" x="344.166784" y="398.093995" button="272" state="1" hit="0"/>
+<button time="37899018" x="344.166784" y="398.093995" button="272" state="0"/>
+<button time="37900204" x="345.733415" y="385.016348" button="272" state="1" hit="0"/>
+<button time="37900333" x="345.733415" y="385.016348" button="272" state="0"/>
+<button time="37901074" x="349.149568" y="383.950312" button="272" state="1" hit="1"/>
+<target time="37901075" number="7" xpos="962" ypos="384" r="15" x="349.149568" y="383.950312"/>
+<button time="37901155" x="349.149568" y="383.950312" button="272" state="0"/>
+<button time="37902588" x="957.258184" y="379.153950" button="272" state="1" hit="1"/>
+<target time="37902588" number="8" xpos="62" ypos="684" r="15" x="957.258184" y="379.153950"/>
+<button time="37902705" x="957.258184" y="379.153950" button="272" state="0"/>
+<button time="37904643" x="50.365876" y="687.656249" button="272" state="1" hit="1"/>
+<target time="37904643" number="9" xpos="662" ypos="84" r="15" x="50.365876" y="687.656249"/>
+<button time="37904725" x="50.365876" y="687.656249" button="272" state="0"/>
+<button time="37906053" x="672.284981" y="91.590565" button="272" state="1" hit="1"/>
+<target time="37906053" number="10" xpos="362" ypos="84" r="15" x="672.284981" y="91.590565"/>
+<button time="37906146" x="672.284981" y="91.590565" button="272" state="0"/>
+<button time="37907438" x="368.542932" y="82.453030" button="272" state="1" hit="1"/>
+<target time="37907438" number="11" xpos="62" ypos="84" r="15" x="368.542932" y="82.453030"/>
+<button time="37907497" x="368.542932" y="82.453030" button="272" state="0"/>
+<button time="37909939" x="46.427264" y="70.250090" button="272" state="1" hit="0"/>
+<button time="37910010" x="46.427264" y="70.250090" button="272" state="0"/>
+<button time="37911395" x="60.967351" y="78.616048" button="272" state="1" hit="1"/>
+<target time="37911395" number="12" xpos="962" ypos="84" r="15" x="60.967351" y="78.616048"/>
+<button time="37911442" x="60.967351" y="78.616048" button="272" state="0"/>
+<button time="37913558" x="952.985675" y="80.505200" button="272" state="1" hit="1"/>
+<target time="37913558" number="13" xpos="62" ypos="384" r="15" x="952.985675" y="80.505200"/>
+<button time="37913627" x="952.985675" y="80.505200" button="272" state="0"/>
+<button time="37915658" x="59.053934" y="372.589192" button="272" state="1" hit="1"/>
+<target time="37915658" number="14" xpos="662" ypos="84" r="15" x="59.053934" y="372.589192"/>
+<button time="37915705" x="59.053934" y="372.589192" button="272" state="0"/>
+<button time="37917184" x="674.504064" y="73.125443" button="272" state="1" hit="0"/>
+<button time="37917269" x="674.504064" y="73.125443" button="272" state="0"/>
+<button time="37917936" x="659.189894" y="73.125443" button="272" state="1" hit="1"/>
+<target time="37917937" number="15" xpos="662" ypos="384" r="15" x="659.189894" y="73.125443"/>
+<button time="37917983" x="659.189894" y="73.125443" button="272" state="0"/>
+<button time="37919263" x="657.539966" y="382.592776" button="272" state="1" hit="1"/>
+</set>
+<button time="37919299" x="657.539966" y="382.592776" button="272" state="0"/>
+<set time="37947555" id="0" r="30" method="1" methodname="stretched">
+<target time="37947614" number="1" xpos="362" ypos="84" r="30" x="509.648241" y="399.822057"/>
+<button time="37948729" x="367.239713" y="108.489099" button="272" state="1" hit="1"/>
+<target time="37948729" number="2" xpos="662" ypos="384" r="30" x="367.239713" y="108.489099"/>
+<button time="37948800" x="367.239713" y="108.489099" button="272" state="0"/>
+<button time="37949998" x="676.843786" y="388.720120" button="272" state="1" hit="1"/>
+<target time="37949998" number="3" xpos="62" ypos="384" r="30" x="676.843786" y="388.720120"/>
+<button time="37950127" x="676.843786" y="388.720120" button="272" state="0"/>
+<button time="37951218" x="41.007295" y="373.182394" button="272" state="1" hit="1"/>
+<target time="37951218" number="4" xpos="62" ypos="684" r="30" x="41.007295" y="373.182394"/>
+<button time="37951278" x="41.007295" y="373.182394" button="272" state="0"/>
+<button time="37952722" x="50.648339" y="676.696352" button="272" state="1" hit="1"/>
+<target time="37952722" number="5" xpos="662" ypos="384" r="30" x="50.648339" y="676.696352"/>
+<button time="37952768" x="50.648339" y="676.696352" button="272" state="0"/>
+<button time="37954389" x="662.015959" y="383.385092" button="272" state="1" hit="1"/>
+<target time="37954389" number="6" xpos="62" ypos="684" r="30" x="662.015959" y="383.385092"/>
+<button time="37954484" x="662.015959" y="383.385092" button="272" state="0"/>
+<button time="37956961" x="54.052772" y="693.934429" button="272" state="1" hit="1"/>
+<target time="37956961" number="7" xpos="962" ypos="84" r="30" x="54.052772" y="693.934429"/>
+<button time="37957055" x="54.052772" y="693.934429" button="272" state="0"/>
+<button time="37958702" x="986.843906" y="76.670929" button="272" state="1" hit="1"/>
+<target time="37958704" number="8" xpos="662" ypos="84" r="30" x="986.843906" y="76.670929"/>
+<button time="37958781" x="986.843906" y="76.670929" button="272" state="0"/>
+<button time="37959897" x="648.732927" y="108.795083" button="272" state="1" hit="1"/>
+<target time="37959897" number="9" xpos="362" ypos="84" r="30" x="648.732927" y="108.795083"/>
+<button time="37959968" x="648.732927" y="108.795083" button="272" state="0"/>
+<button time="37960968" x="341.246254" y="82.248549" button="272" state="1" hit="1"/>
+<target time="37960968" number="10" xpos="962" ypos="384" r="30" x="341.246254" y="82.248549"/>
+<button time="37961024" x="341.246254" y="82.248549" button="272" state="0"/>
+<button time="37962657" x="963.145105" y="373.724359" button="272" state="1" hit="1"/>
+<target time="37962657" number="11" xpos="62" ypos="384" r="30" x="963.145105" y="373.724359"/>
+<button time="37962741" x="963.145105" y="373.724359" button="272" state="0"/>
+<button time="37964700" x="54.827241" y="386.288201" button="272" state="1" hit="1"/>
+<target time="37964702" number="12" xpos="62" ypos="84" r="30" x="54.827241" y="386.288201"/>
+<button time="37964782" x="54.827241" y="386.288201" button="272" state="0"/>
+<button time="37966649" x="54.488898" y="76.593415" button="272" state="1" hit="1"/>
+<target time="37966650" number="13" xpos="362" ypos="684" r="30" x="54.488898" y="76.593415"/>
+<button time="37966732" x="54.488898" y="76.593415" button="272" state="0"/>
+<button time="37968129" x="348.153316" y="700.396494" button="272" state="1" hit="1"/>
+<target time="37968129" number="14" xpos="62" ypos="84" r="30" x="348.153316" y="700.396494"/>
+<button time="37968199" x="348.153316" y="700.396494" button="272" state="0"/>
+<button time="37969914" x="44.524713" y="102.302519" button="272" state="1" hit="1"/>
+<target time="37969914" number="15" xpos="962" ypos="684" r="30" x="44.524713" y="102.302519"/>
+<button time="37969973" x="44.524713" y="102.302519" button="272" state="0"/>
+<button time="37971396" x="973.347573" y="685.315208" button="272" state="1" hit="1"/>
+</set>
+<button time="37971466" x="973.347573" y="685.315208" button="272" state="0"/>
+<set time="37974870" id="1" r="15" method="1" methodname="stretched">
+<target time="37974917" number="1" xpos="62" ypos="84" r="15" x="505.123356" y="385.479776"/>
+<button time="37976420" x="52.686240" y="68.022430" button="272" state="1" hit="0"/>
+<button time="37976514" x="52.686240" y="68.022430" button="272" state="0"/>
+<button time="37977230" x="57.653328" y="80.019623" button="272" state="1" hit="1"/>
+<target time="37977231" number="2" xpos="962" ypos="684" r="15" x="57.653328" y="80.019623"/>
+<button time="37977277" x="57.653328" y="80.019623" button="272" state="0"/>
+<button time="37978875" x="970.890537" y="690.646560" button="272" state="1" hit="1"/>
+<target time="37978875" number="3" xpos="62" ypos="84" r="15" x="970.890537" y="690.646560"/>
+<button time="37978910" x="970.890537" y="690.646560" button="272" state="0"/>
+<button time="37981036" x="71.069908" y="95.177798" button="272" state="1" hit="1"/>
+<target time="37981036" number="4" xpos="662" ypos="384" r="15" x="71.069908" y="95.177798"/>
+<button time="37981084" x="71.069908" y="95.177798" button="272" state="0"/>
+<button time="37983267" x="675.914528" y="384.635533" button="272" state="1" hit="1"/>
+<target time="37983267" number="5" xpos="62" ypos="684" r="15" x="675.914528" y="384.635533"/>
+<button time="37983363" x="675.914528" y="384.635533" button="272" state="0"/>
+<button time="37986837" x="43.845184" y="691.298071" button="272" state="1" hit="0"/>
+<button time="37986896" x="43.845184" y="691.298071" button="272" state="0"/>
+<button time="37987672" x="56.366869" y="687.991508" button="272" state="1" hit="1"/>
+<target time="37987672" number="6" xpos="62" ypos="84" r="15" x="56.366869" y="687.991508"/>
+<button time="37987719" x="56.366869" y="687.991508" button="272" state="0"/>
+<button time="37989327" x="56.172744" y="75.362567" button="272" state="1" hit="1"/>
+<target time="37989327" number="7" xpos="962" ypos="684" r="15" x="56.172744" y="75.362567"/>
+<button time="37989398" x="56.172744" y="75.362567" button="272" state="0"/>
+<button time="37991182" x="956.455984" y="685.534116" button="272" state="1" hit="1"/>
+<target time="37991182" number="8" xpos="662" ypos="684" r="15" x="956.455984" y="685.534116"/>
+<button time="37991206" x="956.455984" y="685.534116" button="272" state="0"/>
+<button time="37993355" x="655.952154" y="675.946646" button="272" state="1" hit="1"/>
+<target time="37993356" number="9" xpos="362" ypos="684" r="15" x="655.952154" y="675.946646"/>
+<button time="37993448" x="655.952154" y="675.946646" button="272" state="0"/>
+<button time="37994917" x="365.407612" y="678.207833" button="272" state="1" hit="1"/>
+<target time="37994918" number="10" xpos="962" ypos="384" r="15" x="365.407612" y="678.207833"/>
+<button time="37994987" x="365.407612" y="678.207833" button="272" state="0"/>
+<button time="37996420" x="953.513986" y="383.839191" button="272" state="1" hit="1"/>
+<target time="37996420" number="11" xpos="62" ypos="684" r="15" x="953.513986" y="383.839191"/>
+<button time="37996514" x="953.513986" y="383.839191" button="272" state="0"/>
+<button time="37998604" x="49.023501" y="690.619184" button="272" state="1" hit="1"/>
+<target time="37998604" number="12" xpos="962" ypos="84" r="15" x="49.023501" y="690.619184"/>
+<button time="37998675" x="49.023501" y="690.619184" button="272" state="0"/>
+<button time="38000682" x="970.160309" y="83.264532" button="272" state="1" hit="1"/>
+<target time="38000683" number="13" xpos="962" ypos="684" r="15" x="970.160309" y="83.264532"/>
+<button time="38000777" x="970.160309" y="83.264532" button="272" state="0"/>
+<button time="38002597" x="965.180564" y="671.401980" button="272" state="1" hit="1"/>
+<target time="38002597" number="14" xpos="362" ypos="84" r="15" x="965.180564" y="671.401980"/>
+<button time="38002716" x="965.180564" y="671.401980" button="272" state="0"/>
+<button time="38004876" x="360.742320" y="79.472837" button="272" state="1" hit="1"/>
+<target time="38004876" number="15" xpos="362" ypos="684" r="15" x="360.742320" y="79.472837"/>
+<button time="38004995" x="360.742320" y="79.472837" button="272" state="0"/>
+<button time="38006625" x="353.783331" y="672.948757" button="272" state="1" hit="1"/>
+</set>
+<button time="38006708" x="353.783331" y="672.948757" button="272" state="0"/>
+<set time="38009678" id="2" r="30" method="1" methodname="stretched">
+<target time="38009772" number="1" xpos="962" ypos="384" r="30" x="509.850745" y="391.946671"/>
+<button time="38010994" x="971.084205" y="368.039133" button="272" state="1" hit="1"/>
+<target time="38010994" number="2" xpos="362" ypos="684" r="30" x="971.084205" y="368.039133"/>
+<button time="38011111" x="971.084205" y="368.039133" button="272" state="0"/>
+<button time="38012579" x="342.935474" y="697.488738" button="272" state="1" hit="1"/>
+<target time="38012579" number="3" xpos="962" ypos="384" r="30" x="342.935474" y="697.488738"/>
+<button time="38012649" x="342.935474" y="697.488738" button="272" state="0"/>
+<button time="38014107" x="946.687123" y="374.310013" button="272" state="1" hit="1"/>
+<target time="38014108" number="4" xpos="962" ypos="84" r="30" x="946.687123" y="374.310013"/>
+<button time="38014211" x="946.687123" y="374.310013" button="272" state="0"/>
+<button time="38015397" x="963.995934" y="81.041638" button="272" state="1" hit="1"/>
+<target time="38015397" number="5" xpos="362" ypos="384" r="30" x="963.995934" y="81.041638"/>
+<button time="38015503" x="963.995934" y="81.041638" button="272" state="0"/>
+<button time="38016760" x="364.672232" y="388.639960" button="272" state="1" hit="1"/>
+<target time="38016760" number="6" xpos="362" ypos="84" r="30" x="364.672232" y="388.639960"/>
+<button time="38016830" x="364.672232" y="388.639960" button="272" state="0"/>
+<button time="38017959" x="365.786977" y="69.083059" button="272" state="1" hit="1"/>
+<target time="38017959" number="7" xpos="362" ypos="384" r="30" x="365.786977" y="69.083059"/>
+<button time="38018040" x="365.786977" y="69.083059" button="272" state="0"/>
+<button time="38019108" x="374.528361" y="375.072934" button="272" state="1" hit="1"/>
+<target time="38019108" number="8" xpos="62" ypos="84" r="30" x="374.528361" y="375.072934"/>
+<button time="38019167" x="374.528361" y="375.072934" button="272" state="0"/>
+<button time="38020565" x="42.000950" y="73.644161" button="272" state="1" hit="1"/>
+<target time="38020568" number="9" xpos="662" ypos="384" r="30" x="42.000950" y="73.644161"/>
+<button time="38020635" x="42.000950" y="73.644161" button="272" state="0"/>
+<button time="38022068" x="652.984785" y="384.551189" button="272" state="1" hit="1"/>
+<target time="38022068" number="10" xpos="362" ypos="684" r="30" x="652.984785" y="384.551189"/>
+<button time="38022161" x="652.984785" y="384.551189" button="272" state="0"/>
+<button time="38023359" x="378.793426" y="676.729781" button="272" state="1" hit="1"/>
+<target time="38023360" number="11" xpos="362" ypos="84" r="30" x="378.793426" y="676.729781"/>
+<button time="38023430" x="378.793426" y="676.729781" button="272" state="0"/>
+<button time="38024663" x="351.886393" y="86.142103" button="272" state="1" hit="1"/>
+<target time="38024663" number="12" xpos="662" ypos="384" r="30" x="351.886393" y="86.142103"/>
+<button time="38024768" x="351.886393" y="86.142103" button="272" state="0"/>
+<button time="38025955" x="670.948977" y="370.055937" button="272" state="1" hit="1"/>
+<target time="38025956" number="13" xpos="662" ypos="84" r="30" x="670.948977" y="370.055937"/>
+<button time="38026061" x="670.948977" y="370.055937" button="272" state="0"/>
+<button time="38027141" x="655.679672" y="80.317313" button="272" state="1" hit="1"/>
+<target time="38027142" number="14" xpos="62" ypos="84" r="30" x="655.679672" y="80.317313"/>
+<button time="38027235" x="655.679672" y="80.317313" button="272" state="0"/>
+<button time="38028785" x="46.784210" y="74.797143" button="272" state="1" hit="1"/>
+<target time="38028786" number="15" xpos="962" ypos="684" r="30" x="46.784210" y="74.797143"/>
+<button time="38028808" x="46.784210" y="74.797143" button="272" state="0"/>
+<button time="38030417" x="968.745740" y="685.664234" button="272" state="1" hit="1"/>
+</set>
+<button time="38030535" x="968.745740" y="685.664234" button="272" state="0"/>
+<set time="38034058" id="3" r="45" method="1" methodname="stretched">
+<target time="38034129" number="1" xpos="362" ypos="84" r="45" x="475.159345" y="369.678113"/>
+<button time="38035009" x="368.135515" y="97.193433" button="272" state="1" hit="1"/>
+<target time="38035009" number="2" xpos="62" ypos="384" r="45" x="368.135515" y="97.193433"/>
+<button time="38035092" x="368.135515" y="97.193433" button="272" state="0"/>
+<button time="38036184" x="69.869003" y="407.626708" button="272" state="1" hit="1"/>
+<target time="38036184" number="3" xpos="362" ypos="384" r="45" x="69.869003" y="407.626708"/>
+<button time="38036277" x="69.869003" y="407.626708" button="272" state="0"/>
+<button time="38037123" x="356.700748" y="402.703032" button="272" state="1" hit="1"/>
+<target time="38037124" number="4" xpos="362" ypos="84" r="45" x="356.700748" y="402.703032"/>
+<button time="38037182" x="356.700748" y="402.703032" button="272" state="0"/>
+<button time="38038262" x="363.599391" y="88.255715" button="272" state="1" hit="1"/>
+<target time="38038262" number="5" xpos="362" ypos="384" r="45" x="363.599391" y="88.255715"/>
+<button time="38038332" x="363.599391" y="88.255715" button="272" state="0"/>
+<button time="38039239" x="362.652644" y="416.981366" button="272" state="1" hit="1"/>
+<target time="38039242" number="6" xpos="62" ypos="384" r="45" x="362.652644" y="416.981366"/>
+<button time="38039319" x="362.652644" y="416.981366" button="272" state="0"/>
+<button time="38040376" x="78.835851" y="397.324433" button="272" state="1" hit="1"/>
+<target time="38040376" number="7" xpos="962" ypos="684" r="45" x="78.835851" y="397.324433"/>
+<button time="38040447" x="78.835851" y="397.324433" button="272" state="0"/>
+<button time="38042196" x="962.296063" y="695.641013" button="272" state="1" hit="1"/>
+<target time="38042196" number="8" xpos="962" ypos="384" r="45" x="962.296063" y="695.641013"/>
+<button time="38042266" x="962.296063" y="695.641013" button="272" state="0"/>
+<button time="38043160" x="963.012702" y="370.512562" button="272" state="1" hit="1"/>
+<target time="38043161" number="9" xpos="662" ypos="384" r="45" x="963.012702" y="370.512562"/>
+<button time="38043288" x="963.012702" y="370.512562" button="272" state="0"/>
+<button time="38044098" x="664.219944" y="393.311602" button="272" state="1" hit="1"/>
+<target time="38044098" number="10" xpos="662" ypos="684" r="45" x="664.219944" y="393.311602"/>
+<button time="38044181" x="664.219944" y="393.311602" button="272" state="0"/>
+<button time="38045190" x="671.180965" y="686.084658" button="272" state="1" hit="1"/>
+<target time="38045191" number="11" xpos="962" ypos="84" r="45" x="671.180965" y="686.084658"/>
+<button time="38045273" x="671.180965" y="686.084658" button="272" state="0"/>
+<button time="38046435" x="946.477971" y="83.417144" button="272" state="1" hit="1"/>
+<target time="38046435" number="12" xpos="662" ypos="384" r="45" x="946.477971" y="83.417144"/>
+<button time="38046588" x="946.477971" y="83.417144" button="272" state="0"/>
+<button time="38047658" x="661.101522" y="362.868405" button="272" state="1" hit="1"/>
+<target time="38047658" number="13" xpos="962" ypos="684" r="45" x="661.101522" y="362.868405"/>
+<button time="38047727" x="661.101522" y="362.868405" button="272" state="0"/>
+<button time="38048749" x="974.441830" y="699.881082" button="272" state="1" hit="1"/>
+<target time="38048749" number="14" xpos="962" ypos="384" r="45" x="974.441830" y="699.881082"/>
+<button time="38048856" x="974.441830" y="699.881082" button="272" state="0"/>
+<button time="38049817" x="953.318061" y="392.602909" button="272" state="1" hit="1"/>
+<target time="38049817" number="15" xpos="362" ypos="84" r="45" x="953.318061" y="392.602909"/>
+<button time="38049947" x="953.318061" y="392.602909" button="272" state="0"/>
+<button time="38050898" x="344.638383" y="100.017963" button="272" state="1" hit="1"/>
+</set>
+<button time="38051004" x="344.638383" y="100.017963" button="272" state="0"/>
+<set time="38055770" id="4" r="15" method="1" methodname="stretched">
+<target time="38055841" number="1" xpos="62" ypos="684" r="15" x="507.790672" y="389.352724"/>
+<button time="38057311" x="71.557651" y="687.968239" button="272" state="1" hit="1"/>
+<target time="38057311" number="2" xpos="962" ypos="84" r="15" x="71.557651" y="687.968239"/>
+<button time="38057380" x="71.557651" y="687.968239" button="272" state="0"/>
+<button time="38059822" x="958.576155" y="98.968024" button="272" state="1" hit="1"/>
+<target time="38059822" number="3" xpos="62" ypos="684" r="15" x="958.576155" y="98.968024"/>
+<button time="38059940" x="958.576155" y="98.968024" button="272" state="0"/>
+<button time="38061642" x="70.496175" y="684.343511" button="272" state="1" hit="1"/>
+<target time="38061645" number="4" xpos="362" ypos="384" r="15" x="70.496175" y="684.343511"/>
+<button time="38061701" x="70.496175" y="684.343511" button="272" state="0"/>
+<button time="38062969" x="370.691100" y="381.981145" button="272" state="1" hit="1"/>
+<target time="38062970" number="5" xpos="62" ypos="384" r="15" x="370.691100" y="381.981145"/>
+<button time="38063065" x="370.691100" y="381.981145" button="272" state="0"/>
+<button time="38064214" x="48.254166" y="380.530469" button="272" state="1" hit="1"/>
+<target time="38064214" number="6" xpos="362" ypos="84" r="15" x="48.254166" y="380.530469"/>
+<button time="38064285" x="48.254166" y="380.530469" button="272" state="0"/>
+<button time="38065553" x="349.847911" y="99.426987" button="272" state="1" hit="0"/>
+<button time="38065672" x="349.847911" y="99.426987" button="272" state="0"/>
+<button time="38066410" x="351.714767" y="97.250484" button="272" state="1" hit="0"/>
+<button time="38066493" x="351.714767" y="97.250484" button="272" state="0"/>
+<button time="38067326" x="352.790918" y="75.628266" button="272" state="1" hit="1"/>
+<target time="38067326" number="7" xpos="362" ypos="684" r="15" x="352.790918" y="75.628266"/>
+<button time="38067420" x="352.790918" y="75.628266" button="272" state="0"/>
+<button time="38068443" x="368.823643" y="690.897059" button="272" state="1" hit="1"/>
+<target time="38068443" number="8" xpos="662" ypos="684" r="15" x="368.823643" y="690.897059"/>
+<button time="38068512" x="368.823643" y="690.897059" button="272" state="0"/>
+<button time="38069512" x="668.681720" y="683.903636" button="272" state="1" hit="1"/>
+<target time="38069512" number="9" xpos="962" ypos="84" r="15" x="668.681720" y="683.903636"/>
+<button time="38069581" x="668.681720" y="683.903636" button="272" state="0"/>
+<button time="38071284" x="951.852897" y="81.533966" button="272" state="1" hit="1"/>
+<target time="38071284" number="10" xpos="662" ypos="684" r="15" x="951.852897" y="81.533966"/>
+<button time="38071377" x="951.852897" y="81.533966" button="272" state="0"/>
+<button time="38072834" x="660.246991" y="684.450075" button="272" state="1" hit="1"/>
+<target time="38072834" number="11" xpos="362" ypos="684" r="15" x="660.246991" y="684.450075"/>
+<button time="38072892" x="660.246991" y="684.450075" button="272" state="0"/>
+<button time="38074113" x="368.525234" y="682.640102" button="272" state="1" hit="1"/>
+<target time="38074114" number="12" xpos="362" ypos="384" r="15" x="368.525234" y="682.640102"/>
+<button time="38074184" x="368.525234" y="682.640102" button="272" state="0"/>
+<button time="38075653" x="358.201238" y="376.660740" button="272" state="1" hit="1"/>
+<target time="38075654" number="13" xpos="662" ypos="684" r="15" x="358.201238" y="376.660740"/>
+<button time="38075723" x="358.201238" y="376.660740" button="272" state="0"/>
+<button time="38078082" x="669.433161" y="686.799278" button="272" state="1" hit="1"/>
+<target time="38078082" number="14" xpos="62" ypos="684" r="15" x="669.433161" y="686.799278"/>
+<button time="38078153" x="669.433161" y="686.799278" button="272" state="0"/>
+<button time="38079492" x="67.840449" y="691.809875" button="272" state="1" hit="1"/>
+<target time="38079492" number="15" xpos="662" ypos="684" r="15" x="67.840449" y="691.809875"/>
+<button time="38079562" x="67.840449" y="691.809875" button="272" state="0"/>
+<button time="38080924" x="659.810660" y="668.048127" button="272" state="1" hit="0"/>
+<button time="38081020" x="659.810660" y="668.048127" button="272" state="0"/>
+<button time="38081981" x="660.969868" y="690.444208" button="272" state="1" hit="1"/>
+</set>
+<button time="38082051" x="660.969868" y="690.444208" button="272" state="0"/>
+<set time="38086314" id="5" r="45" method="1" methodname="stretched">
+<target time="38086409" number="1" xpos="962" ypos="384" r="45" x="479.530907" y="398.468330"/>
+<button time="38087512" x="980.543733" y="360.159555" button="272" state="1" hit="1"/>
+<target time="38087512" number="2" xpos="362" ypos="384" r="45" x="980.543733" y="360.159555"/>
+<button time="38087618" x="980.543733" y="360.159555" button="272" state="0"/>
+<button time="38088722" x="382.510788" y="389.744494" button="272" state="1" hit="1"/>
+<target time="38088722" number="3" xpos="962" ypos="84" r="45" x="382.510788" y="389.744494"/>
+<button time="38088781" x="382.510788" y="389.744494" button="272" state="0"/>
+<button time="38089755" x="952.035789" y="102.332216" button="272" state="1" hit="1"/>
+<target time="38089755" number="4" xpos="62" ypos="84" r="45" x="952.035789" y="102.332216"/>
+<button time="38089849" x="952.035789" y="102.332216" button="272" state="0"/>
+<button time="38091235" x="89.796551" y="49.727735" button="272" state="1" hit="1"/>
+<target time="38091236" number="5" xpos="362" ypos="84" r="45" x="89.796551" y="49.727735"/>
+<button time="38091354" x="89.796551" y="49.727735" button="272" state="0"/>
+<button time="38092374" x="345.398869" y="107.375794" button="272" state="1" hit="1"/>
+<target time="38092374" number="6" xpos="662" ypos="84" r="45" x="345.398869" y="107.375794"/>
+<button time="38092444" x="345.398869" y="107.375794" button="272" state="0"/>
+<button time="38093442" x="649.611653" y="109.548098" button="272" state="1" hit="1"/>
+<target time="38093442" number="7" xpos="962" ypos="384" r="45" x="649.611653" y="109.548098"/>
+<button time="38093536" x="649.611653" y="109.548098" button="272" state="0"/>
+<button time="38094406" x="954.774660" y="351.268160" button="272" state="1" hit="1"/>
+<target time="38094406" number="8" xpos="962" ypos="684" r="45" x="954.774660" y="351.268160"/>
+<button time="38094465" x="954.774660" y="351.268160" button="272" state="0"/>
+<button time="38095309" x="973.536029" y="682.467299" button="272" state="1" hit="1"/>
+<target time="38095309" number="9" xpos="362" ypos="384" r="45" x="973.536029" y="682.467299"/>
+<button time="38095392" x="973.536029" y="682.467299" button="272" state="0"/>
+<button time="38096802" x="358.493273" y="351.170630" button="272" state="1" hit="1"/>
+<target time="38096802" number="10" xpos="662" ypos="684" r="45" x="358.493273" y="351.170630"/>
+<button time="38096894" x="358.493273" y="351.170630" button="272" state="0"/>
+<button time="38098069" x="640.044068" y="675.567838" button="272" state="1" hit="1"/>
+<target time="38098069" number="11" xpos="362" ypos="684" r="45" x="640.044068" y="675.567838"/>
+<button time="38098151" x="640.044068" y="675.567838" button="272" state="0"/>
+<button time="38098985" x="377.550981" y="672.351093" button="272" state="1" hit="1"/>
+<target time="38098985" number="12" xpos="962" ypos="684" r="45" x="377.550981" y="672.351093"/>
+<button time="38099055" x="377.550981" y="672.351093" button="272" state="0"/>
+<button time="38100100" x="970.579207" y="688.178789" button="272" state="1" hit="1"/>
+<target time="38100100" number="13" xpos="62" ypos="684" r="45" x="970.579207" y="688.178789"/>
+<button time="38100207" x="970.579207" y="688.178789" button="272" state="0"/>
+<button time="38101276" x="63.099474" y="681.880132" button="272" state="1" hit="1"/>
+<target time="38101276" number="14" xpos="662" ypos="384" r="45" x="63.099474" y="681.880132"/>
+<button time="38101333" x="63.099474" y="681.880132" button="272" state="0"/>
+<button time="38102308" x="633.542849" y="400.436584" button="272" state="1" hit="1"/>
+<target time="38102309" number="15" xpos="362" ypos="684" r="45" x="633.542849" y="400.436584"/>
+<button time="38102390" x="633.542849" y="400.436584" button="272" state="0"/>
+<button time="38103341" x="362.173374" y="672.074913" button="272" state="1" hit="1"/>
+</set>
+<button time="38103388" x="362.173374" y="672.074913" button="272" state="0"/>
+<questionnaire first="2" second="1">
+<userdata age="44" gender="male" handed="left" experience="26" hours_per_week="60" />
+<device type="touchpad"/>
+<question question-id="0" response="0">The first acceleration method felt natural</question>
+<question question-id="1" response="0">The first acceleration method allowed for precise pointer control</question>
+<question question-id="2" response="0">The first acceleration method allowed for fast pointer movement</question>
+<question question-id="3" response="0">The first acceleration method made it easy to hit the targets</question>
+<question question-id="4" response="0">I would prefer the first acceleration method to be faster</question>
+<question question-id="5" response="0">I would prefer the first acceleration method to be slower</question>
+<question question-id="6" response="0">The second acceleration method felt natural</question>
+<question question-id="7" response="0">The second acceleration method allowed for precise pointer control</question>
+<question question-id="8" response="0">The second acceleration method allowed for fast pointer movement</question>
+<question question-id="9" response="0">The second acceleration method made it easy to hit the targets</question>
+<question question-id="10" response="0">I would prefer the second acceleration method to be faster</question>
+<question question-id="11" response="0">I would prefer the second acceleration method to be slower</question>
+<question question-id="12" response="0">The two acceleration methods felt different</question>
+<question question-id="13" response="0">The first acceleration method was preferable over the second</question>
+</questionnaire>
+</sets>
+</results>
